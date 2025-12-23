@@ -1,4 +1,4 @@
-# Bulk Renaming of Photos to match the same pattern
+# Bulk Renaming of Photos
 A Bash script that renames all photos in a folder to simplyfy managing them.
 
 1. **Download the script**  
